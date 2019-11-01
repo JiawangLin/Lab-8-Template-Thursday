@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b9c8c37-97c3-4295-835d-3178ecbef5d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/simpleparadox/listycity/CityListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/example/simpleparadox/listycity/CityListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/simpleparadox/listycity/CityListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="98" column="9" lean-forward="true" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+            <state relative-caret-position="419">
+              <caret line="102" column="37" lean-forward="true" selection-start-line="102" selection-start-column="37" selection-end-line="102" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="82" column="14" lean-forward="true" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -42,6 +52,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/test/java/com/example/simpleparadox/listycity/CityListTest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java" />
       </list>
     </option>
   </component>
@@ -132,6 +143,12 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="listycity" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ListyCity" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="listycity" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -140,6 +157,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -260,8 +278,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/simpleparadox/listycity/CityListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="98" column="9" lean-forward="true" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+        <state relative-caret-position="419">
+          <caret line="102" column="37" lean-forward="true" selection-start-line="102" selection-start-column="37" selection-end-line="102" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="82" column="14" lean-forward="true" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
         </state>
       </provider>
     </entry>
